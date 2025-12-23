@@ -1,6 +1,6 @@
 ## Hi there! My name is Igor Pereira. 👋
 
-<p>I'm 22 years old, and I'm a Computer Engineering student at Federal University of Ceará (Universidade Federal do Ceará, UFC). My areas of interest are Machine Learning, Data Science, Software Development, IoT with embedded systems. I'm always looking forward to improve my analytical skills in solving complex computing and programming problems.
+<p>I'm 22 years old, and I'm a Computer Engineering student at Federal University of Ceará (Universidade Federal do Ceará, UFC). My areas of interest are Machine Learning, Data Science, Embedded systems, Software development and Competitive programming. I'm always looking forward to improve my analytical skills in solving complex computing and programming problems.
   
 <p>📍 Fortaleza, Ceará, Brazil</p>
 
